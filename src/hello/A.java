@@ -3,7 +3,7 @@ package hello;
 public class A {
 	public A () 
 	{
-		System.out.println("java");
+		System.out.println("hanumant");
 		
 	}
 	public A(int a)
